@@ -1,0 +1,24 @@
+body {
+    margin: 0 auto;
+    /*background: linear-gradient(to top, #E4AF9D 20%, #E4E4D8 50%, #A19887 80%);*/
+
+}
+
+/*.bodyImg {
+opacity: 50%;
+
+
+}*/
+
+img {
+margin-top: 20px;
+width: 600px;
+height: 400px;
+
+}
+
+.last-Name {
+
+border: 2px solid red;
+
+}
