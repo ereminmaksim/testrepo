@@ -27,6 +27,7 @@ function alertLastnameElVAlues() {
 
 
 
+
 var firstnameId = 'first-Name';
 var firstnameEl = document.getElementById(firstnameId);
 console.log(firstnameEl.value);
@@ -150,6 +151,4 @@ catPhoto.title = 'Котики они же такие милые';
 // }
 // вызвать данную функцию
 // allertvalue();
-
-
-
+//
